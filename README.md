@@ -2,6 +2,13 @@
 
 - Create React App
 - Configuired TailwindCSS
+- Header
+- Login Form
+- Sign Up Form
+- Install App router 
+- create route from createBrowseRouter
+- Provide Router
+
 
 # Features
 
