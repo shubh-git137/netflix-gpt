@@ -5,16 +5,16 @@
 
 # Features
 
--Login/SignUp
+- Login/SignUp
     - Sign In / Sign up form
     - Redirect to browes page
--Browse (after authentication)
+- Browse (after authentication)
     - Header
     - Main Movie
         - Tailer in background
         - Title & Discription
         - Movie suggestions
             - Movie List * N
--NetflixGPT
+- NetflixGPT
     - Search Bar
     - Movie Suggetions
