@@ -3,11 +3,16 @@
 - Create React App
 - Configuired TailwindCSS
 - Header
+- create route from createBrowseRouter
+- Provide Router
 - Login Form
 - Sign Up Form
 - Install App router 
-- create route from createBrowseRouter
-- Provide Router
+- Form Validation
+- useRef Hook
+- Firebase setup
+- Deploying our app to production
+- 
 
 
 # Features
